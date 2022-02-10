@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.9cf923bd.css",
+    "main.js": "/React-Website/static/js/main.2a96bace.js",
+    "static/js/787.fe314b74.chunk.js": "/React-Website/static/js/787.fe314b74.chunk.js",
+    "static/media/homevideo.mp4": "/React-Website/static/media/homevideo.1348a7dd94b6c349741c.mp4",
+    "static/media/grooming.jpg": "/React-Website/static/media/grooming.786136b198487f964d4b.jpg",
+    "static/media/daycare.jpg": "/React-Website/static/media/daycare.556dc9594483c5936e32.jpg",
+    "static/media/training.jpg": "/React-Website/static/media/training.a0cbc76be022548faf58.jpg",
+    "static/media/img12.jpg": "/React-Website/static/media/img12.f0a6f3d5937fe5e0843b.jpg",
+    "static/media/examination.jpg": "/React-Website/static/media/examination.0e92d516be075c7dfa29.jpg",
+    "static/media/loginImg.jpg": "/React-Website/static/media/loginImg.4eb7b17c2d2df250b34b.jpg",
+    "static/media/vaccination.jpg": "/React-Website/static/media/vaccination.8159ef026b8b398fbe7d.jpg",
+    "static/media/aboutback.jpg": "/React-Website/static/media/aboutback.41f3f895db73e186dabc.jpg",
+    "static/media/kit.jpg": "/React-Website/static/media/kit.b10cda8c4cadcf8e6fd9.jpg",
+    "static/media/logo2.jpg": "/React-Website/static/media/logo2.2e4adcf5c6e341a1c9c6.jpg",
+    "index.html": "/React-Website/index.html",
+    "main.9cf923bd.css.map": "/React-Website/static/css/main.9cf923bd.css.map",
+    "main.2a96bace.js.map": "/React-Website/static/js/main.2a96bace.js.map",
+    "787.fe314b74.chunk.js.map": "/React-Website/static/js/787.fe314b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cf923bd.css",
+    "static/js/main.2a96bace.js"
+  ]
+}
